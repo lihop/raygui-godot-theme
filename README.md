@@ -25,4 +25,4 @@ Any issues Report them <a href="https://github.com/Airbus5717/raygui-godot-theme
 - [ ] Cyber
 - [ ] Jungle
 - [ ] Lavanda
-- [ ] Terminal
+- [x] Terminal
