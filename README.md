@@ -5,6 +5,8 @@
 Make Games With RayGui Theme 
 Inspired by https://github.com/raysan5/raygui
 
+### Default Tscn file is in the src folder
+
 The Project isn't done 
 ill add the other theme in near future
 
