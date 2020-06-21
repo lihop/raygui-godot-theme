@@ -1,6 +1,0 @@
-Godot Engine v3.2.1.stable.mono.official - https://godotengine.org
-OpenGL ES 2.0 Renderer: GeForce GTX 1050 Ti/PCIe/SSE2
- 
-Mono: Logfile is: C:\Users\abdus\AppData\Roaming/Godot/mono/mono_logs/2020_06_21 11.35.30 (1968).txt
-**WARNING**: EditorSettings::_get - Property not found: mono/editor/editor_path_optional
-   At: editor/editor_settings.cpp:151:_get() - EditorSettings::_get - Property not found: mono/editor/editor_path_optional

@@ -18,11 +18,6 @@ _global_script_class_icons={
 config/name="RayGui"
 config/icon="res://icon.png"
 
-[logging]
-
-file_logging/enable_file_logging=true
-file_logging/log_path="res://src/log.txt"
-
 [physics]
 
 2d/enable_file_logging=false
