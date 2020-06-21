@@ -8,3 +8,15 @@ Inspired by https://github.com/raysan5/raygui
 The Project isn't done 
 ill add the other theme in near future
 
+Any issues Report them <a href="https://github.com/Airbus5717/raygui-godot-theme/issues">here </a>
+
+### Themes
+- [x] Default
+- [ ] Ashes
+- [ ] Bluish
+- [ ] Candy
+- [ ] Cherry
+- [ ] Cyber
+- [ ] Jungle
+- [ ] Lavanda
+- [ ] Terminal
