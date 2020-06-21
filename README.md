@@ -11,6 +11,7 @@ ill add the other theme in near future
 Any issues Report them <a href="https://github.com/Airbus5717/raygui-godot-theme/issues">here </a>
 
 ### Themes
+ available on this repo
 - [x] Default
 - [ ] Ashes
 - [ ] Bluish
